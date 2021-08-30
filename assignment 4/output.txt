@@ -1,0 +1,380 @@
+
+
+                             DINIG PHILOSOPHERS PROBLEM IMPLEMENTATION 
+
+ No Of philosophers : 5 ( already specified in question ) 
+                            ROUND 1 
+
+-------------------------------------------------------------------------------------------------
+
+ Philosopher 1 is thinking 
+
+ Philosopher 1 picked left fork 
+
+ Philosopher 1 picked right fork 
+
+ Philosopher 1 started eating  
+
+ Philosopher 5 is thinking 
+
+ Philosopher 2 is thinking 
+
+ Philosopher 3 is thinking 
+
+ Philosopher 3 picked left fork 
+
+ Philosopher 3 picked right fork 
+
+ Philosopher 3 started eating  
+
+ Philosopher 4 is thinking 
+
+ Philosopher 1 put down left fork 
+
+ Philosopher 1 put down right fork 
+
+ Philosopher 1 finished eating 	 remaing philosopher to eat : 4
+
+ Philosopher 5 picked right fork 
+
+ Philosopher 5 picked left fork 
+
+ Philosopher 5 started eating  
+
+ Philosopher 2 picked left fork 
+
+ Philosopher 2 picked right fork 
+
+ Philosopher 2 started eating  
+
+ Philosopher 5 put down left fork 
+
+ Philosopher 5 put down right fork 
+
+ Philosopher 5 finished eating 	 remaing philosopher to eat : 3
+
+ Philosopher 3 put down left fork 
+
+ Philosopher 3 put down right fork 
+
+ Philosopher 3 finished eating 	 remaing philosopher to eat : 2
+
+ Philosopher 2 put down left fork 
+
+ Philosopher 2 put down right fork 
+
+ Philosopher 2 finished eating 	 remaing philosopher to eat : 1
+
+ Philosopher 4 picked left fork 
+
+ Philosopher 4 picked right fork 
+
+ Philosopher 4 started eating  
+
+ Philosopher 4 put down left fork 
+
+ Philosopher 4 put down right fork 
+
+ Philosopher 4 finished eating 	 remaing philosopher to eat : 0
+
+-------------------------------------------------------------------------------------------------
+                            ROUND 2 
+
+-------------------------------------------------------------------------------------------------
+
+ Philosopher 1 is thinking 
+
+ Philosopher 1 picked left fork 
+
+ Philosopher 1 picked right fork 
+
+ Philosopher 1 started eating  
+
+ Philosopher 5 is thinking 
+
+ Philosopher 2 is thinking 
+
+ Philosopher 3 is thinking 
+
+ Philosopher 3 picked left fork 
+
+ Philosopher 3 picked right fork 
+
+ Philosopher 3 started eating  
+
+ Philosopher 5 picked right fork 
+
+ Philosopher 5 picked left fork 
+
+ Philosopher 5 started eating  
+
+ Philosopher 4 is thinking 
+
+ Philosopher 1 put down left fork 
+
+ Philosopher 1 put down right fork 
+
+ Philosopher 1 finished eating 	 remaing philosopher to eat : 4
+
+ Philosopher 2 picked left fork 
+
+ Philosopher 2 picked right fork 
+
+ Philosopher 2 started eating  
+
+ Philosopher 5 put down left fork 
+
+ Philosopher 5 put down right fork 
+
+ Philosopher 5 finished eating 	 remaing philosopher to eat : 3
+
+ Philosopher 3 put down left fork 
+
+ Philosopher 3 put down right fork 
+
+ Philosopher 3 finished eating 	 remaing philosopher to eat : 2
+
+ Philosopher 4 picked left fork 
+
+ Philosopher 4 picked right fork 
+
+ Philosopher 4 started eating  
+
+ Philosopher 2 put down left fork 
+
+ Philosopher 2 put down right fork 
+
+ Philosopher 2 finished eating 	 remaing philosopher to eat : 1
+
+ Philosopher 4 put down left fork 
+
+ Philosopher 4 put down right fork 
+
+ Philosopher 4 finished eating 	 remaing philosopher to eat : 0
+
+-------------------------------------------------------------------------------------------------
+                            ROUND 3 
+
+-------------------------------------------------------------------------------------------------
+
+ Philosopher 1 is thinking 
+
+ Philosopher 1 picked left fork 
+
+ Philosopher 1 picked right fork 
+
+ Philosopher 1 started eating  
+
+ Philosopher 5 is thinking 
+
+ Philosopher 2 is thinking 
+
+ Philosopher 3 is thinking 
+
+ Philosopher 3 picked left fork 
+
+ Philosopher 3 picked right fork 
+
+ Philosopher 3 started eating  
+
+ Philosopher 4 is thinking 
+
+ Philosopher 1 put down left fork 
+
+ Philosopher 1 put down right fork 
+
+ Philosopher 1 finished eating 	 remaing philosopher to eat : 4
+
+ Philosopher 2 picked left fork 
+
+ Philosopher 2 picked right fork 
+
+ Philosopher 2 started eating  
+
+ Philosopher 3 put down left fork 
+
+ Philosopher 3 put down right fork 
+
+ Philosopher 3 finished eating 	 remaing philosopher to eat : 3
+
+ Philosopher 4 picked left fork 
+
+ Philosopher 4 picked right fork 
+
+ Philosopher 4 started eating  
+
+ Philosopher 5 picked right fork 
+
+ Philosopher 2 put down left fork 
+
+ Philosopher 2 put down right fork 
+
+ Philosopher 2 finished eating 	 remaing philosopher to eat : 2
+
+ Philosopher 4 put down left fork 
+
+ Philosopher 4 put down right fork 
+
+ Philosopher 4 finished eating 	 remaing philosopher to eat : 1
+
+ Philosopher 5 picked left fork 
+
+ Philosopher 5 started eating  
+
+ Philosopher 5 put down left fork 
+
+ Philosopher 5 put down right fork 
+
+ Philosopher 5 finished eating 	 remaing philosopher to eat : 0
+
+-------------------------------------------------------------------------------------------------
+                            ROUND 4 
+
+-------------------------------------------------------------------------------------------------
+
+ Philosopher 1 is thinking 
+
+ Philosopher 1 picked left fork 
+
+ Philosopher 1 picked right fork 
+
+ Philosopher 1 started eating  
+
+ Philosopher 5 is thinking 
+
+ Philosopher 2 is thinking 
+
+ Philosopher 3 is thinking 
+
+ Philosopher 3 picked left fork 
+
+ Philosopher 3 picked right fork 
+
+ Philosopher 3 started eating  
+
+ Philosopher 4 is thinking 
+
+ Philosopher 5 picked right fork 
+
+ Philosopher 5 picked left fork 
+
+ Philosopher 5 started eating  
+
+ Philosopher 1 put down left fork 
+
+ Philosopher 1 put down right fork 
+
+ Philosopher 1 finished eating 	 remaing philosopher to eat : 4
+
+ Philosopher 2 picked left fork 
+
+ Philosopher 2 picked right fork 
+
+ Philosopher 2 started eating  
+
+ Philosopher 3 put down left fork 
+
+ Philosopher 3 put down right fork 
+
+ Philosopher 3 finished eating 	 remaing philosopher to eat : 3
+
+ Philosopher 4 picked left fork 
+
+ Philosopher 4 picked right fork 
+
+ Philosopher 4 started eating  
+
+ Philosopher 5 put down left fork 
+
+ Philosopher 5 put down right fork 
+
+ Philosopher 5 finished eating 	 remaing philosopher to eat : 2
+
+ Philosopher 4 put down left fork 
+
+ Philosopher 4 put down right fork 
+
+ Philosopher 4 finished eating 	 remaing philosopher to eat : 1
+
+ Philosopher 2 put down left fork 
+
+ Philosopher 2 put down right fork 
+
+ Philosopher 2 finished eating 	 remaing philosopher to eat : 0
+
+-------------------------------------------------------------------------------------------------
+                            ROUND 5 
+
+-------------------------------------------------------------------------------------------------
+
+ Philosopher 1 is thinking 
+
+ Philosopher 1 picked left fork 
+
+ Philosopher 1 picked right fork 
+
+ Philosopher 1 started eating  
+
+ Philosopher 5 is thinking 
+
+ Philosopher 5 picked right fork 
+
+ Philosopher 5 picked left fork 
+
+ Philosopher 5 started eating  
+
+ Philosopher 1 put down left fork 
+
+ Philosopher 1 put down right fork 
+
+ Philosopher 1 finished eating 	 remaing philosopher to eat : 4
+
+ Philosopher 4 is thinking 
+
+ Philosopher 4 picked left fork 
+
+ Philosopher 4 picked right fork 
+
+ Philosopher 4 started eating  
+
+ Philosopher 2 is thinking 
+
+ Philosopher 2 picked left fork 
+
+ Philosopher 2 picked right fork 
+
+ Philosopher 2 started eating  
+
+ Philosopher 4 put down left fork 
+
+ Philosopher 4 put down right fork 
+
+ Philosopher 4 finished eating 	 remaing philosopher to eat : 3
+
+ Philosopher 5 put down left fork 
+
+ Philosopher 5 put down right fork 
+
+ Philosopher 5 finished eating 	 remaing philosopher to eat : 2
+
+ Philosopher 3 is thinking 
+
+ Philosopher 2 put down left fork 
+
+ Philosopher 2 put down right fork 
+
+ Philosopher 2 finished eating 	 remaing philosopher to eat : 1
+
+ Philosopher 3 picked left fork 
+
+ Philosopher 3 picked right fork 
+
+ Philosopher 3 started eating  
+
+ Philosopher 3 put down left fork 
+
+ Philosopher 3 put down right fork 
+
+ Philosopher 3 finished eating 	 remaing philosopher to eat : 0
+
+-------------------------------------------------------------------------------------------------

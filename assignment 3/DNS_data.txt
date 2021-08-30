@@ -1,0 +1,21 @@
+www.leetcode.com 1.1.1.1
+www.instagram.com 1.1.1.2
+www.google.com 127.1.2.2
+www.twitter.com 4.5.6.7
+www.whatsapp.com 2.2.2.2
+www.oracle.com 3.3.3.3
+www.tinder.com 4.4.4.4
+www.youtube.com 5.5.5.5
+www.github.com 6.6.6.6
+www.codeforces.com 7.7.7.7
+www.codeched.com 8.8.8.8
+www.binarysearch.com 9.9.9.9
+www.interviewbit.com 10.10.10.10
+www.yahoo.com 11.11.11.11
+www.amazon.com 12.12.12.12
+www.flipkart.com 13.13.13.13
+www.ebay.com 14.14.14.14
+wwww.walmart.com 15.15.15.15
+www.reddit.com 16.16.16.16
+www.wikipedia.com 17.17.17.17
+
